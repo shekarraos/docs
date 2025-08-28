@@ -89,8 +89,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "https://splan.com/images/png_icons/splan-logo.png",
+    "dark": "https://splan.com/images/png_icons/splan-logo.png"
   },
   "navbar": {
     "links": [
